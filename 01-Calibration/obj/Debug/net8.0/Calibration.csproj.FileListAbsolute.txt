@@ -1,0 +1,15 @@
+C:\Users\saeed\contests\aoc23\01-Calibration\bin\Debug\net8.0\Calibration.exe
+C:\Users\saeed\contests\aoc23\01-Calibration\bin\Debug\net8.0\Calibration.deps.json
+C:\Users\saeed\contests\aoc23\01-Calibration\bin\Debug\net8.0\Calibration.runtimeconfig.json
+C:\Users\saeed\contests\aoc23\01-Calibration\bin\Debug\net8.0\Calibration.dll
+C:\Users\saeed\contests\aoc23\01-Calibration\bin\Debug\net8.0\Calibration.pdb
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.AssemblyInfoInputs.cache
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.AssemblyInfo.cs
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.csproj.CoreCompileInputs.cache
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.sourcelink.json
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.dll
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\refint\Calibration.dll
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.pdb
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\Calibration.genruntimeconfig.cache
+C:\Users\saeed\contests\aoc23\01-Calibration\obj\Debug\net8.0\ref\Calibration.dll
